@@ -10,7 +10,7 @@ export default function Result() {
     <div className="result" hidden={timer !== 0}>
       <div className="dks">
         <h1 style={{ textAlign: "center" }}>
-          {(correctWord / (correctWord + wrongWords) / 1) * 100} DKS
+          {Math.round(correctWord / 5 / 1)} DKS
         </h1>
         <p style={{ textAlign: "center" }}>(kelime yazabiliyorum)</p>
       </div>
