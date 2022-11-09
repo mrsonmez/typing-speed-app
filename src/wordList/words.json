@@ -1,0 +1,4837 @@
+[
+  {
+    "id": 1,
+    "tr": "olarak",
+    "en": "as"
+  },
+  {
+    "id": 2,
+    "tr": "ben",
+    "en": "I"
+  },
+  {
+    "id": 3,
+    "tr": "onun",
+    "en": "his"
+  },
+  {
+    "id": 4,
+    "tr": "bu",
+    "en": "that"
+  },
+  {
+    "id": 5,
+    "tr": "diye",
+    "en": "he"
+  },
+  {
+    "id": 6,
+    "tr": "oldu",
+    "en": "was"
+  },
+  {
+    "id": 7,
+    "tr": "için",
+    "en": "for"
+  },
+  {
+    "id": 8,
+    "tr": "üzerinde",
+    "en": "on"
+  },
+  {
+    "id": 9,
+    "tr": "vardır",
+    "en": "are"
+  },
+  {
+    "id": 10,
+    "tr": "ile",
+    "en": "with"
+  },
+  {
+    "id": 11,
+    "tr": "onlar",
+    "en": "they"
+  },
+  {
+    "id": 12,
+    "tr": "olmak",
+    "en": "be"
+  },
+  {
+    "id": 13,
+    "tr": "at",
+    "en": "at"
+  },
+  {
+    "id": 14,
+    "tr": "bir",
+    "en": "one"
+  },
+  {
+    "id": 15,
+    "tr": "var",
+    "en": "have"
+  },
+  {
+    "id": 16,
+    "tr": "Bu",
+    "en": "this"
+  },
+  {
+    "id": 17,
+    "tr": "dan",
+    "en": "from"
+  },
+  {
+    "id": 18,
+    "tr": "tarafından",
+    "en": "by"
+  },
+  {
+    "id": 19,
+    "tr": "sıcak",
+    "en": "hot"
+  },
+  {
+    "id": 20,
+    "tr": "kelime",
+    "en": "word"
+  },
+  {
+    "id": 21,
+    "tr": "ancak",
+    "en": "but"
+  },
+  {
+    "id": 22,
+    "tr": "ne",
+    "en": "what"
+  },
+  {
+    "id": 23,
+    "tr": "bazı",
+    "en": "some"
+  },
+  {
+    "id": 24,
+    "tr": "olduğunu",
+    "en": "is"
+  },
+  {
+    "id": 25,
+    "tr": "o",
+    "en": "it"
+  },
+  {
+    "id": 26,
+    "tr": "sen",
+    "en": "you"
+  },
+  {
+    "id": 27,
+    "tr": "veya",
+    "en": "or"
+  },
+  {
+    "id": 28,
+    "tr": "vardı",
+    "en": "had"
+  },
+  {
+    "id": 30,
+    "tr": "arasında",
+    "en": "of"
+  },
+  {
+    "id": 31,
+    "tr": "karşı",
+    "en": "to"
+  },
+  {
+    "id": 32,
+    "tr": "ve",
+    "en": "and"
+  },
+  {
+    "id": 33,
+    "tr": "bir",
+    "en": "a"
+  },
+  {
+    "id": 34,
+    "tr": "içinde",
+    "en": "in"
+  },
+  {
+    "id": 35,
+    "tr": "biz",
+    "en": "we"
+  },
+  {
+    "id": 36,
+    "tr": "can",
+    "en": "can"
+  },
+  {
+    "id": 37,
+    "tr": "üzerinden",
+    "en": "out"
+  },
+  {
+    "id": 38,
+    "tr": "diğer",
+    "en": "other"
+  },
+  {
+    "id": 39,
+    "tr": "vardı",
+    "en": "were"
+  },
+  {
+    "id": 40,
+    "tr": "hangi",
+    "en": "which"
+  },
+  {
+    "id": 42,
+    "tr": "onların",
+    "en": "their"
+  },
+  {
+    "id": 43,
+    "tr": "zaman",
+    "en": "time"
+  },
+  {
+    "id": 44,
+    "tr": "eğer",
+    "en": "if"
+  },
+  {
+    "id": 45,
+    "tr": "olacak",
+    "en": "will"
+  },
+  {
+    "id": 46,
+    "tr": "nasıl",
+    "en": "how"
+  },
+  {
+    "id": 47,
+    "tr": "dedi",
+    "en": "said"
+  },
+  {
+    "id": 48,
+    "tr": "bir",
+    "en": "an"
+  },
+  {
+    "id": 49,
+    "tr": "her",
+    "en": "each"
+  },
+  {
+    "id": 50,
+    "tr": "söyle",
+    "en": "tell"
+  },
+  {
+    "id": 51,
+    "tr": "yok",
+    "en": "does"
+  },
+  {
+    "id": 52,
+    "tr": "set",
+    "en": "set"
+  },
+  {
+    "id": 53,
+    "tr": "üç",
+    "en": "three"
+  },
+  {
+    "id": 54,
+    "tr": "istiyorum",
+    "en": "want"
+  },
+  {
+    "id": 55,
+    "tr": "hava",
+    "en": "air"
+  },
+  {
+    "id": 56,
+    "tr": "iyi",
+    "en": "well"
+  },
+  {
+    "id": 57,
+    "tr": "ayrıca",
+    "en": "also"
+  },
+  {
+    "id": 58,
+    "tr": "oynamak",
+    "en": "play"
+  },
+  {
+    "id": 59,
+    "tr": "küçük",
+    "en": "small"
+  },
+  {
+    "id": 60,
+    "tr": "son",
+    "en": "end"
+  },
+  {
+    "id": 61,
+    "tr": "koymak",
+    "en": "put"
+  },
+  {
+    "id": 62,
+    "tr": "ev",
+    "en": "home"
+  },
+  {
+    "id": 63,
+    "tr": "okumak",
+    "en": "read"
+  },
+  {
+    "id": 64,
+    "tr": "el",
+    "en": "hand"
+  },
+  {
+    "id": 65,
+    "tr": "liman",
+    "en": "port"
+  },
+  {
+    "id": 66,
+    "tr": "büyük",
+    "en": "large"
+  },
+  {
+    "id": 67,
+    "tr": "büyü",
+    "en": "spell"
+  },
+  {
+    "id": 68,
+    "tr": "ekleyin",
+    "en": "add"
+  },
+  {
+    "id": 69,
+    "tr": "hatta",
+    "en": "even"
+  },
+  {
+    "id": 70,
+    "tr": "arazi",
+    "en": "land"
+  },
+  {
+    "id": 71,
+    "tr": "burada",
+    "en": "here"
+  },
+  {
+    "id": 72,
+    "tr": "gerekir",
+    "en": "must"
+  },
+  {
+    "id": 73,
+    "tr": "büyük",
+    "en": "big"
+  },
+  {
+    "id": 74,
+    "tr": "yüksek",
+    "en": "high"
+  },
+  {
+    "id": 75,
+    "tr": "böyle",
+    "en": "such"
+  },
+  {
+    "id": 76,
+    "tr": "izleyin",
+    "en": "follow"
+  },
+  {
+    "id": 77,
+    "tr": "hareket",
+    "en": "act"
+  },
+  {
+    "id": 78,
+    "tr": "neden",
+    "en": "why"
+  },
+  {
+    "id": 79,
+    "tr": "sormak",
+    "en": "ask"
+  },
+  {
+    "id": 80,
+    "tr": "erkekler",
+    "en": "men"
+  },
+  {
+    "id": 81,
+    "tr": "değişim",
+    "en": "change"
+  },
+  {
+    "id": 82,
+    "tr": "gitti",
+    "en": "went"
+  },
+  {
+    "id": 83,
+    "tr": "ışık",
+    "en": "light"
+  },
+  {
+    "id": 84,
+    "tr": "tür",
+    "en": "kind"
+  },
+  {
+    "id": 85,
+    "tr": "kapalı",
+    "en": "off"
+  },
+  {
+    "id": 86,
+    "tr": "gerek",
+    "en": "need"
+  },
+  {
+    "id": 87,
+    "tr": "ev",
+    "en": "house"
+  },
+  {
+    "id": 88,
+    "tr": "resim",
+    "en": "picture"
+  },
+  {
+    "id": 89,
+    "tr": "denemek",
+    "en": "try"
+  },
+  {
+    "id": 90,
+    "tr": "bizi",
+    "en": "us"
+  },
+  {
+    "id": 91,
+    "tr": "tekrar",
+    "en": "again"
+  },
+  {
+    "id": 92,
+    "tr": "hayvan",
+    "en": "animal"
+  },
+  {
+    "id": 93,
+    "tr": "nokta",
+    "en": "point"
+  },
+  {
+    "id": 94,
+    "tr": "anne",
+    "en": "mother"
+  },
+  {
+    "id": 95,
+    "tr": "dünya",
+    "en": "world"
+  },
+  {
+    "id": 96,
+    "tr": "yakın",
+    "en": "near"
+  },
+  {
+    "id": 97,
+    "tr": "inşa",
+    "en": "build"
+  },
+  {
+    "id": 98,
+    "tr": "öz",
+    "en": "self"
+  },
+  {
+    "id": 99,
+    "tr": "toprak",
+    "en": "earth"
+  },
+  {
+    "id": 100,
+    "tr": "baba",
+    "en": "father"
+  },
+  {
+    "id": 102,
+    "tr": "yeni",
+    "en": "new"
+  },
+  {
+    "id": 103,
+    "tr": "iş",
+    "en": "work"
+  },
+  {
+    "id": 104,
+    "tr": "bölüm",
+    "en": "part"
+  },
+  {
+    "id": 105,
+    "tr": "almak",
+    "en": "take"
+  },
+  {
+    "id": 106,
+    "tr": "olsun",
+    "en": "get"
+  },
+  {
+    "id": 107,
+    "tr": "yer",
+    "en": "place"
+  },
+  {
+    "id": 108,
+    "tr": "yapılan",
+    "en": "made"
+  },
+  {
+    "id": 109,
+    "tr": "canlı",
+    "en": "live"
+  },
+  {
+    "id": 110,
+    "tr": "nerede",
+    "en": "where"
+  },
+  {
+    "id": 111,
+    "tr": "sonra",
+    "en": "after"
+  },
+  {
+    "id": 112,
+    "tr": "geri",
+    "en": "back"
+  },
+  {
+    "id": 113,
+    "tr": "küçük",
+    "en": "little"
+  },
+  {
+    "id": 114,
+    "tr": "sadece",
+    "en": "only"
+  },
+  {
+    "id": 115,
+    "tr": "yuvarlak",
+    "en": "round"
+  },
+  {
+    "id": 116,
+    "tr": "adam",
+    "en": "man"
+  },
+  {
+    "id": 117,
+    "tr": "yıl",
+    "en": "year"
+  },
+  {
+    "id": 118,
+    "tr": "geldi",
+    "en": "came"
+  },
+  {
+    "id": 119,
+    "tr": "gösterisi",
+    "en": "show"
+  },
+  {
+    "id": 120,
+    "tr": "her",
+    "en": "every"
+  },
+  {
+    "id": 122,
+    "tr": "bana",
+    "en": "me"
+  },
+  {
+    "id": 123,
+    "tr": "vermek",
+    "en": "give"
+  },
+  {
+    "id": 124,
+    "tr": "bizim",
+    "en": "our"
+  },
+  {
+    "id": 125,
+    "tr": "altında",
+    "en": "under"
+  },
+  {
+    "id": 126,
+    "tr": "adı",
+    "en": "name"
+  },
+  {
+    "id": 127,
+    "tr": "çok",
+    "en": "very"
+  },
+  {
+    "id": 128,
+    "tr": "ile",
+    "en": "through"
+  },
+  {
+    "id": 129,
+    "tr": "sadece",
+    "en": "just"
+  },
+  {
+    "id": 130,
+    "tr": "formu",
+    "en": "form"
+  },
+  {
+    "id": 131,
+    "tr": "cümle",
+    "en": "sentence"
+  },
+  {
+    "id": 132,
+    "tr": "büyük",
+    "en": "great"
+  },
+  {
+    "id": 133,
+    "tr": "düşünmek",
+    "en": "think"
+  },
+  {
+    "id": 134,
+    "tr": "demek",
+    "en": "say"
+  },
+  {
+    "id": 135,
+    "tr": "yardım",
+    "en": "help"
+  },
+  {
+    "id": 136,
+    "tr": "düşük",
+    "en": "low"
+  },
+  {
+    "id": 137,
+    "tr": "hat",
+    "en": "line"
+  },
+  {
+    "id": 138,
+    "tr": "farklı",
+    "en": "differ"
+  },
+  {
+    "id": 139,
+    "tr": "dönüş",
+    "en": "turn"
+  },
+  {
+    "id": 140,
+    "tr": "neden",
+    "en": "cause"
+  },
+  {
+    "id": 141,
+    "tr": "çok",
+    "en": "much"
+  },
+  {
+    "id": 142,
+    "tr": "Yani",
+    "en": "mean"
+  },
+  {
+    "id": 143,
+    "tr": "önce",
+    "en": "before"
+  },
+  {
+    "id": 144,
+    "tr": "hareket",
+    "en": "move"
+  },
+  {
+    "id": 145,
+    "tr": "sağ",
+    "en": "right"
+  },
+  {
+    "id": 146,
+    "tr": "çocuk",
+    "en": "boy"
+  },
+  {
+    "id": 147,
+    "tr": "eski",
+    "en": "old"
+  },
+  {
+    "id": 148,
+    "tr": "çok",
+    "en": "too"
+  },
+  {
+    "id": 149,
+    "tr": "aynı",
+    "en": "same"
+  },
+  {
+    "id": 150,
+    "tr": "diye",
+    "en": "she"
+  },
+  {
+    "id": 151,
+    "tr": "tüm",
+    "en": "all"
+  },
+  {
+    "id": 152,
+    "tr": "orada",
+    "en": "there"
+  },
+  {
+    "id": 153,
+    "tr": "zaman",
+    "en": "when"
+  },
+  {
+    "id": 154,
+    "tr": "yukarı",
+    "en": "up"
+  },
+  {
+    "id": 155,
+    "tr": "Kullanım",
+    "en": "use"
+  },
+  {
+    "id": 156,
+    "tr": "senin",
+    "en": "your"
+  },
+  {
+    "id": 157,
+    "tr": "yol",
+    "en": "way"
+  },
+  {
+    "id": 158,
+    "tr": "hakkında",
+    "en": "about"
+  },
+  {
+    "id": 159,
+    "tr": "birçok",
+    "en": "many"
+  },
+  {
+    "id": 161,
+    "tr": "onları",
+    "en": "them"
+  },
+  {
+    "id": 162,
+    "tr": "yazmak",
+    "en": "write"
+  },
+  {
+    "id": 164,
+    "tr": "gibi",
+    "en": "like"
+  },
+  {
+    "id": 166,
+    "tr": "bu",
+    "en": "these"
+  },
+  {
+    "id": 167,
+    "tr": "onu",
+    "en": "her"
+  },
+  {
+    "id": 168,
+    "tr": "uzun",
+    "en": "long"
+  },
+  {
+    "id": 169,
+    "tr": "yapmak",
+    "en": "make"
+  },
+  {
+    "id": 170,
+    "tr": "şey",
+    "en": "thing"
+  },
+  {
+    "id": 171,
+    "tr": "görmek",
+    "en": "see"
+  },
+  {
+    "id": 172,
+    "tr": "onu",
+    "en": "him"
+  },
+  {
+    "id": 173,
+    "tr": "iki",
+    "en": "two"
+  },
+  {
+    "id": 174,
+    "tr": "var",
+    "en": "has"
+  },
+  {
+    "id": 175,
+    "tr": "bak",
+    "en": "look"
+  },
+  {
+    "id": 176,
+    "tr": "fazla",
+    "en": "more"
+  },
+  {
+    "id": 177,
+    "tr": "gün",
+    "en": "day"
+  },
+  {
+    "id": 178,
+    "tr": "olabilir",
+    "en": "could"
+  },
+  {
+    "id": 179,
+    "tr": "gitmek",
+    "en": "go"
+  },
+  {
+    "id": 180,
+    "tr": "gel",
+    "en": "come"
+  },
+  {
+    "id": 181,
+    "tr": "yaptım",
+    "en": "did"
+  },
+  {
+    "id": 182,
+    "tr": "numarası",
+    "en": "number"
+  },
+  {
+    "id": 183,
+    "tr": "ses",
+    "en": "sound"
+  },
+  {
+    "id": 184,
+    "tr": "hayır",
+    "en": "no"
+  },
+  {
+    "id": 185,
+    "tr": "en",
+    "en": "most"
+  },
+  {
+    "id": 186,
+    "tr": "insanlar",
+    "en": "people"
+  },
+  {
+    "id": 187,
+    "tr": "benim",
+    "en": "my"
+  },
+  {
+    "id": 188,
+    "tr": "üzerinde",
+    "en": "over"
+  },
+  {
+    "id": 189,
+    "tr": "bilmek",
+    "en": "know"
+  },
+  {
+    "id": 190,
+    "tr": "su",
+    "en": "water"
+  },
+  {
+    "id": 191,
+    "tr": "daha",
+    "en": "than"
+  },
+  {
+    "id": 192,
+    "tr": "çağrı",
+    "en": "call"
+  },
+  {
+    "id": 193,
+    "tr": "ilk",
+    "en": "first"
+  },
+  {
+    "id": 194,
+    "tr": "kim",
+    "en": "who"
+  },
+  {
+    "id": 196,
+    "tr": "aşağı",
+    "en": "down"
+  },
+  {
+    "id": 197,
+    "tr": "yan",
+    "en": "side"
+  },
+  {
+    "id": 198,
+    "tr": "oldu",
+    "en": "been"
+  },
+  {
+    "id": 199,
+    "tr": "Şimdi",
+    "en": "now"
+  },
+  {
+    "id": 200,
+    "tr": "bulmak",
+    "en": "find"
+  },
+  {
+    "id": 201,
+    "tr": "kafa",
+    "en": "head"
+  },
+  {
+    "id": 202,
+    "tr": "standı",
+    "en": "stand"
+  },
+  {
+    "id": 203,
+    "tr": "kendi",
+    "en": "own"
+  },
+  {
+    "id": 204,
+    "tr": "sayfa",
+    "en": "page"
+  },
+  {
+    "id": 205,
+    "tr": "gerekir",
+    "en": "should"
+  },
+  {
+    "id": 206,
+    "tr": "ülke",
+    "en": "country"
+  },
+  {
+    "id": 207,
+    "tr": "bulundu",
+    "en": "found"
+  },
+  {
+    "id": 208,
+    "tr": "cevap",
+    "en": "answer"
+  },
+  {
+    "id": 209,
+    "tr": "okul",
+    "en": "school"
+  },
+  {
+    "id": 210,
+    "tr": "büyümek",
+    "en": "grow"
+  },
+  {
+    "id": 211,
+    "tr": "çalışma",
+    "en": "study"
+  },
+  {
+    "id": 212,
+    "tr": "hala",
+    "en": "still"
+  },
+  {
+    "id": 213,
+    "tr": "öğrenmek",
+    "en": "learn"
+  },
+  {
+    "id": 214,
+    "tr": "bitki",
+    "en": "plant"
+  },
+  {
+    "id": 215,
+    "tr": "kapak",
+    "en": "cover"
+  },
+  {
+    "id": 216,
+    "tr": "gıda",
+    "en": "food"
+  },
+  {
+    "id": 217,
+    "tr": "güneş",
+    "en": "sun"
+  },
+  {
+    "id": 218,
+    "tr": "dört",
+    "en": "four"
+  },
+  {
+    "id": 219,
+    "tr": "arasında",
+    "en": "between"
+  },
+  {
+    "id": 220,
+    "tr": "devlet",
+    "en": "state"
+  },
+  {
+    "id": 221,
+    "tr": "tutmak",
+    "en": "keep"
+  },
+  {
+    "id": 222,
+    "tr": "göz",
+    "en": "eye"
+  },
+  {
+    "id": 223,
+    "tr": "asla",
+    "en": "never"
+  },
+  {
+    "id": 224,
+    "tr": "son",
+    "en": "last"
+  },
+  {
+    "id": 226,
+    "tr": "düşünce",
+    "en": "thought"
+  },
+  {
+    "id": 227,
+    "tr": "Şehir",
+    "en": "city"
+  },
+  {
+    "id": 228,
+    "tr": "ağaç",
+    "en": "tree"
+  },
+  {
+    "id": 229,
+    "tr": "çapraz",
+    "en": "cross"
+  },
+  {
+    "id": 230,
+    "tr": "çiftlik",
+    "en": "farm"
+  },
+  {
+    "id": 231,
+    "tr": "sert",
+    "en": "hard"
+  },
+  {
+    "id": 232,
+    "tr": "başlangıç",
+    "en": "start"
+  },
+  {
+    "id": 233,
+    "tr": "olabilir",
+    "en": "might"
+  },
+  {
+    "id": 234,
+    "tr": "hikaye",
+    "en": "story"
+  },
+  {
+    "id": 235,
+    "tr": "testere",
+    "en": "saw"
+  },
+  {
+    "id": 236,
+    "tr": "kadar",
+    "en": "far"
+  },
+  {
+    "id": 237,
+    "tr": "deniz",
+    "en": "sea"
+  },
+  {
+    "id": 238,
+    "tr": "çizmek",
+    "en": "draw"
+  },
+  {
+    "id": 239,
+    "tr": "sol",
+    "en": "left"
+  },
+  {
+    "id": 240,
+    "tr": "geç",
+    "en": "late"
+  },
+  {
+    "id": 242,
+    "tr": "yapamaz",
+    "en": "don’t"
+  },
+  {
+    "id": 243,
+    "tr": "süre",
+    "en": "while"
+  },
+  {
+    "id": 244,
+    "tr": "basın",
+    "en": "press"
+  },
+  {
+    "id": 245,
+    "tr": "yakın",
+    "en": "close"
+  },
+  {
+    "id": 246,
+    "tr": "gece",
+    "en": "night"
+  },
+  {
+    "id": 247,
+    "tr": "gerçek",
+    "en": "real"
+  },
+  {
+    "id": 248,
+    "tr": "hayat",
+    "en": "life"
+  },
+  {
+    "id": 249,
+    "tr": "az",
+    "en": "few"
+  },
+  {
+    "id": 250,
+    "tr": "kuzey",
+    "en": "north"
+  },
+  {
+    "id": 251,
+    "tr": "kitap",
+    "en": "book"
+  },
+  {
+    "id": 252,
+    "tr": "taşımak",
+    "en": "carry"
+  },
+  {
+    "id": 253,
+    "tr": "aldı",
+    "en": "took"
+  },
+  {
+    "id": 254,
+    "tr": "bilim",
+    "en": "science"
+  },
+  {
+    "id": 255,
+    "tr": "yemek",
+    "en": "eat"
+  },
+  {
+    "id": 256,
+    "tr": "oda",
+    "en": "room"
+  },
+  {
+    "id": 257,
+    "tr": "arkadaşı",
+    "en": "friend"
+  },
+  {
+    "id": 258,
+    "tr": "başladı",
+    "en": "began"
+  },
+  {
+    "id": 259,
+    "tr": "fikir",
+    "en": "idea"
+  },
+  {
+    "id": 260,
+    "tr": "balık",
+    "en": "fish"
+  },
+  {
+    "id": 261,
+    "tr": "dağ",
+    "en": "mountain"
+  },
+  {
+    "id": 262,
+    "tr": "dur",
+    "en": "stop"
+  },
+  {
+    "id": 264,
+    "tr": "baz",
+    "en": "base"
+  },
+  {
+    "id": 265,
+    "tr": "duymak",
+    "en": "hear"
+  },
+  {
+    "id": 266,
+    "tr": "at",
+    "en": "horse"
+  },
+  {
+    "id": 267,
+    "tr": "kesim",
+    "en": "cut"
+  },
+  {
+    "id": 268,
+    "tr": "emin",
+    "en": "sure"
+  },
+  {
+    "id": 269,
+    "tr": "izle",
+    "en": "watch"
+  },
+  {
+    "id": 270,
+    "tr": "renk",
+    "en": "color"
+  },
+  {
+    "id": 271,
+    "tr": "yüz",
+    "en": "face"
+  },
+  {
+    "id": 272,
+    "tr": "ahşap",
+    "en": "wood"
+  },
+  {
+    "id": 273,
+    "tr": "ana",
+    "en": "main"
+  },
+  {
+    "id": 274,
+    "tr": "açık",
+    "en": "open"
+  },
+  {
+    "id": 275,
+    "tr": "görünmek",
+    "en": "seem"
+  },
+  {
+    "id": 276,
+    "tr": "birlikte",
+    "en": "together"
+  },
+  {
+    "id": 277,
+    "tr": "sonraki",
+    "en": "next"
+  },
+  {
+    "id": 278,
+    "tr": "beyaz",
+    "en": "white"
+  },
+  {
+    "id": 279,
+    "tr": "çocuk",
+    "en": "children"
+  },
+  {
+    "id": 280,
+    "tr": "başla",
+    "en": "begin"
+  },
+  {
+    "id": 281,
+    "tr": "var",
+    "en": "got"
+  },
+  {
+    "id": 282,
+    "tr": "yürümek",
+    "en": "walk"
+  },
+  {
+    "id": 283,
+    "tr": "örnek",
+    "en": "example"
+  },
+  {
+    "id": 284,
+    "tr": "kolaylığı",
+    "en": "ease"
+  },
+  {
+    "id": 285,
+    "tr": "kağıt",
+    "en": "paper"
+  },
+  {
+    "id": 286,
+    "tr": "grup",
+    "en": "group"
+  },
+  {
+    "id": 288,
+    "tr": "müzik",
+    "en": "music"
+  },
+  {
+    "id": 289,
+    "tr": "bu",
+    "en": "those"
+  },
+  {
+    "id": 291,
+    "tr": "işareti",
+    "en": "mark"
+  },
+  {
+    "id": 293,
+    "tr": "mektup",
+    "en": "letter"
+  },
+  {
+    "id": 294,
+    "tr": "kadar",
+    "en": "until"
+  },
+  {
+    "id": 295,
+    "tr": "kilometre",
+    "en": "mile"
+  },
+  {
+    "id": 296,
+    "tr": "nehir",
+    "en": "river"
+  },
+  {
+    "id": 297,
+    "tr": "araba",
+    "en": "car"
+  },
+  {
+    "id": 298,
+    "tr": "ayaklar",
+    "en": "feet"
+  },
+  {
+    "id": 299,
+    "tr": "bakım",
+    "en": "care"
+  },
+  {
+    "id": 300,
+    "tr": "ikinci",
+    "en": "second"
+  },
+  {
+    "id": 301,
+    "tr": "yeterli",
+    "en": "enough"
+  },
+  {
+    "id": 302,
+    "tr": "düz",
+    "en": "plain"
+  },
+  {
+    "id": 303,
+    "tr": "kız",
+    "en": "girl"
+  },
+  {
+    "id": 304,
+    "tr": "olağan",
+    "en": "usual"
+  },
+  {
+    "id": 305,
+    "tr": "genç",
+    "en": "young"
+  },
+  {
+    "id": 306,
+    "tr": "hazır",
+    "en": "ready"
+  },
+  {
+    "id": 307,
+    "tr": "yukarıdaki",
+    "en": "above"
+  },
+  {
+    "id": 308,
+    "tr": "hiç",
+    "en": "ever"
+  },
+  {
+    "id": 309,
+    "tr": "kırmızı",
+    "en": "red"
+  },
+  {
+    "id": 310,
+    "tr": "listesi",
+    "en": "list"
+  },
+  {
+    "id": 311,
+    "tr": "olsa",
+    "en": "though"
+  },
+  {
+    "id": 312,
+    "tr": "hissetmek",
+    "en": "feel"
+  },
+  {
+    "id": 313,
+    "tr": "tartışma",
+    "en": "talk"
+  },
+  {
+    "id": 314,
+    "tr": "kuş",
+    "en": "bird"
+  },
+  {
+    "id": 315,
+    "tr": "yakında",
+    "en": "soon"
+  },
+  {
+    "id": 316,
+    "tr": "vücut",
+    "en": "body"
+  },
+  {
+    "id": 317,
+    "tr": "köpek",
+    "en": "dog"
+  },
+  {
+    "id": 318,
+    "tr": "aile",
+    "en": "family"
+  },
+  {
+    "id": 319,
+    "tr": "doğrudan",
+    "en": "direct"
+  },
+  {
+    "id": 320,
+    "tr": "poz",
+    "en": "pose"
+  },
+  {
+    "id": 321,
+    "tr": "bırakın",
+    "en": "leave"
+  },
+  {
+    "id": 322,
+    "tr": "şarkı",
+    "en": "song"
+  },
+  {
+    "id": 323,
+    "tr": "ölçmek",
+    "en": "measure"
+  },
+  {
+    "id": 324,
+    "tr": "kapı",
+    "en": "door"
+  },
+  {
+    "id": 325,
+    "tr": "ürün",
+    "en": "product"
+  },
+  {
+    "id": 326,
+    "tr": "siyah",
+    "en": "black"
+  },
+  {
+    "id": 327,
+    "tr": "kısa",
+    "en": "short"
+  },
+  {
+    "id": 328,
+    "tr": "rakam",
+    "en": "numeral"
+  },
+  {
+    "id": 329,
+    "tr": "sınıf",
+    "en": "class"
+  },
+  {
+    "id": 330,
+    "tr": "rüzgar",
+    "en": "wind"
+  },
+  {
+    "id": 331,
+    "tr": "soru",
+    "en": "question"
+  },
+  {
+    "id": 332,
+    "tr": "olur",
+    "en": "happen"
+  },
+  {
+    "id": 333,
+    "tr": "komple",
+    "en": "complete"
+  },
+  {
+    "id": 334,
+    "tr": "gemi",
+    "en": "ship"
+  },
+  {
+    "id": 335,
+    "tr": "alan",
+    "en": "area"
+  },
+  {
+    "id": 336,
+    "tr": "yarım",
+    "en": "half"
+  },
+  {
+    "id": 337,
+    "tr": "kaya",
+    "en": "rock"
+  },
+  {
+    "id": 338,
+    "tr": "sipariş",
+    "en": "order"
+  },
+  {
+    "id": 339,
+    "tr": "yangın",
+    "en": "fire"
+  },
+  {
+    "id": 340,
+    "tr": "güney",
+    "en": "south"
+  },
+  {
+    "id": 341,
+    "tr": "sorun",
+    "en": "problem"
+  },
+  {
+    "id": 342,
+    "tr": "parça",
+    "en": "piece"
+  },
+  {
+    "id": 343,
+    "tr": "söyledi",
+    "en": "told"
+  },
+  {
+    "id": 344,
+    "tr": "biliyordu",
+    "en": "knew"
+  },
+  {
+    "id": 345,
+    "tr": "geçmek",
+    "en": "pass"
+  },
+  {
+    "id": 346,
+    "tr": "beri",
+    "en": "since"
+  },
+  {
+    "id": 347,
+    "tr": "üst",
+    "en": "top"
+  },
+  {
+    "id": 348,
+    "tr": "bütün",
+    "en": "whole"
+  },
+  {
+    "id": 349,
+    "tr": "kral",
+    "en": "king"
+  },
+  {
+    "id": 350,
+    "tr": "sokak",
+    "en": "street"
+  },
+  {
+    "id": 352,
+    "tr": "çarpmak",
+    "en": "multiply"
+  },
+  {
+    "id": 354,
+    "tr": "ders",
+    "en": "course"
+  },
+  {
+    "id": 355,
+    "tr": "kalmak",
+    "en": "stay"
+  },
+  {
+    "id": 356,
+    "tr": "tekerlek",
+    "en": "wheel"
+  },
+  {
+    "id": 357,
+    "tr": "tam",
+    "en": "full"
+  },
+  {
+    "id": 358,
+    "tr": "kuvvet",
+    "en": "force"
+  },
+  {
+    "id": 359,
+    "tr": "mavi",
+    "en": "blue"
+  },
+  {
+    "id": 360,
+    "tr": "nesne",
+    "en": "object"
+  },
+  {
+    "id": 362,
+    "tr": "yüzey",
+    "en": "surface"
+  },
+  {
+    "id": 363,
+    "tr": "derin",
+    "en": "deep"
+  },
+  {
+    "id": 364,
+    "tr": "ay",
+    "en": "moon"
+  },
+  {
+    "id": 365,
+    "tr": "ada",
+    "en": "island"
+  },
+  {
+    "id": 366,
+    "tr": "ayak",
+    "en": "foot"
+  },
+  {
+    "id": 367,
+    "tr": "sistem",
+    "en": "system"
+  },
+  {
+    "id": 368,
+    "tr": "meşgul",
+    "en": "busy"
+  },
+  {
+    "id": 369,
+    "tr": "Test",
+    "en": "test"
+  },
+  {
+    "id": 370,
+    "tr": "kayıt",
+    "en": "record"
+  },
+  {
+    "id": 371,
+    "tr": "tekne",
+    "en": "boat"
+  },
+  {
+    "id": 372,
+    "tr": "ortak",
+    "en": "common"
+  },
+  {
+    "id": 373,
+    "tr": "altın",
+    "en": "gold"
+  },
+  {
+    "id": 374,
+    "tr": "mümkün",
+    "en": "possible"
+  },
+  {
+    "id": 375,
+    "tr": "düzlem",
+    "en": "plane"
+  },
+  {
+    "id": 377,
+    "tr": "kuru",
+    "en": "dry"
+  },
+  {
+    "id": 378,
+    "tr": "acaba",
+    "en": "wonder"
+  },
+  {
+    "id": 379,
+    "tr": "gülmek",
+    "en": "laugh"
+  },
+  {
+    "id": 380,
+    "tr": "bin",
+    "en": "thousand"
+  },
+  {
+    "id": 381,
+    "tr": "önce",
+    "en": "ago"
+  },
+  {
+    "id": 382,
+    "tr": "koştu",
+    "en": "ran"
+  },
+  {
+    "id": 383,
+    "tr": "kontrol",
+    "en": "check"
+  },
+  {
+    "id": 384,
+    "tr": "oyunu",
+    "en": "game"
+  },
+  {
+    "id": 385,
+    "tr": "şekil",
+    "en": "shape"
+  },
+  {
+    "id": 386,
+    "tr": "eşit",
+    "en": "equate"
+  },
+  {
+    "id": 387,
+    "tr": "sıcak",
+    "en": "hot"
+  },
+  {
+    "id": 388,
+    "tr": "özledim",
+    "en": "miss"
+  },
+  {
+    "id": 389,
+    "tr": "getirdi",
+    "en": "brought"
+  },
+  {
+    "id": 390,
+    "tr": "ısı",
+    "en": "heat"
+  },
+  {
+    "id": 391,
+    "tr": "kar",
+    "en": "snow"
+  },
+  {
+    "id": 392,
+    "tr": "lastik",
+    "en": "tire"
+  },
+  {
+    "id": 393,
+    "tr": "getirmek",
+    "en": "bring"
+  },
+  {
+    "id": 394,
+    "tr": "evet",
+    "en": "yes"
+  },
+  {
+    "id": 395,
+    "tr": "uzak",
+    "en": "distant"
+  },
+  {
+    "id": 396,
+    "tr": "doldurun",
+    "en": "fill"
+  },
+  {
+    "id": 397,
+    "tr": "doğu",
+    "en": "east"
+  },
+  {
+    "id": 398,
+    "tr": "boya",
+    "en": "paint"
+  },
+  {
+    "id": 399,
+    "tr": "dil",
+    "en": "language"
+  },
+  {
+    "id": 400,
+    "tr": "arasında",
+    "en": "among"
+  },
+  {
+    "id": 401,
+    "tr": "ünitesi",
+    "en": "unit"
+  },
+  {
+    "id": 402,
+    "tr": "güç",
+    "en": "power"
+  },
+  {
+    "id": 403,
+    "tr": "kasaba",
+    "en": "town"
+  },
+  {
+    "id": 404,
+    "tr": "ince",
+    "en": "fine"
+  },
+  {
+    "id": 405,
+    "tr": "belirli",
+    "en": "certain"
+  },
+  {
+    "id": 406,
+    "tr": "uçmak",
+    "en": "fly"
+  },
+  {
+    "id": 407,
+    "tr": "düşmek",
+    "en": "fall"
+  },
+  {
+    "id": 408,
+    "tr": "kurşun",
+    "en": "lead"
+  },
+  {
+    "id": 409,
+    "tr": "ağlamak",
+    "en": "cry"
+  },
+  {
+    "id": 410,
+    "tr": "karanlık",
+    "en": "dark"
+  },
+  {
+    "id": 411,
+    "tr": "makine",
+    "en": "machine"
+  },
+  {
+    "id": 412,
+    "tr": "notu",
+    "en": "note"
+  },
+  {
+    "id": 413,
+    "tr": "bekleyin",
+    "en": "wait"
+  },
+  {
+    "id": 414,
+    "tr": "planı",
+    "en": "plan"
+  },
+  {
+    "id": 415,
+    "tr": "rakam",
+    "en": "figure"
+  },
+  {
+    "id": 416,
+    "tr": "yıldız",
+    "en": "star"
+  },
+  {
+    "id": 417,
+    "tr": "kutu",
+    "en": "box"
+  },
+  {
+    "id": 419,
+    "tr": "alan",
+    "en": "field"
+  },
+  {
+    "id": 420,
+    "tr": "gerisi",
+    "en": "rest"
+  },
+  {
+    "id": 421,
+    "tr": "doğru",
+    "en": "correct"
+  },
+  {
+    "id": 422,
+    "tr": "yetenekli",
+    "en": "able"
+  },
+  {
+    "id": 423,
+    "tr": "kiloluk",
+    "en": "pound"
+  },
+  {
+    "id": 424,
+    "tr": "bitti",
+    "en": "done"
+  },
+  {
+    "id": 425,
+    "tr": "güzellik",
+    "en": "beauty"
+  },
+  {
+    "id": 426,
+    "tr": "sürücü",
+    "en": "drive"
+  },
+  {
+    "id": 427,
+    "tr": "durdu",
+    "en": "stood"
+  },
+  {
+    "id": 428,
+    "tr": "içeren",
+    "en": "contain"
+  },
+  {
+    "id": 429,
+    "tr": "ön",
+    "en": "front"
+  },
+  {
+    "id": 430,
+    "tr": "öğretmek",
+    "en": "teach"
+  },
+  {
+    "id": 431,
+    "tr": "hafta",
+    "en": "week"
+  },
+  {
+    "id": 432,
+    "tr": "nihai",
+    "en": "final"
+  },
+  {
+    "id": 433,
+    "tr": "verdi",
+    "en": "gave"
+  },
+  {
+    "id": 434,
+    "tr": "yeşil",
+    "en": "green"
+  },
+  {
+    "id": 435,
+    "tr": "oh",
+    "en": "oh"
+  },
+  {
+    "id": 436,
+    "tr": "hızlı",
+    "en": "quick"
+  },
+  {
+    "id": 437,
+    "tr": "geliştirmek",
+    "en": "develop"
+  },
+  {
+    "id": 438,
+    "tr": "okyanus",
+    "en": "ocean"
+  },
+  {
+    "id": 439,
+    "tr": "sıcak",
+    "en": "warm"
+  },
+  {
+    "id": 440,
+    "tr": "ücretsiz",
+    "en": "free"
+  },
+  {
+    "id": 441,
+    "tr": "dakika",
+    "en": "minute"
+  },
+  {
+    "id": 442,
+    "tr": "güçlü",
+    "en": "strong"
+  },
+  {
+    "id": 443,
+    "tr": "özel",
+    "en": "special"
+  },
+  {
+    "id": 444,
+    "tr": "zihin",
+    "en": "mind"
+  },
+  {
+    "id": 445,
+    "tr": "arkasında",
+    "en": "behind"
+  },
+  {
+    "id": 446,
+    "tr": "açık",
+    "en": "clear"
+  },
+  {
+    "id": 447,
+    "tr": "kuyruk",
+    "en": "tail"
+  },
+  {
+    "id": 448,
+    "tr": "üretmek",
+    "en": "produce"
+  },
+  {
+    "id": 449,
+    "tr": "gerçek",
+    "en": "fact"
+  },
+  {
+    "id": 450,
+    "tr": "uzay",
+    "en": "space"
+  },
+  {
+    "id": 451,
+    "tr": "duydum",
+    "en": "heard"
+  },
+  {
+    "id": 453,
+    "tr": "saat",
+    "en": "hour"
+  },
+  {
+    "id": 455,
+    "tr": "gerçek",
+    "en": "true"
+  },
+  {
+    "id": 456,
+    "tr": "sırasında",
+    "en": "during"
+  },
+  {
+    "id": 457,
+    "tr": "yüz",
+    "en": "hundred"
+  },
+  {
+    "id": 458,
+    "tr": "beş",
+    "en": "five"
+  },
+  {
+    "id": 459,
+    "tr": "hatırlıyorum",
+    "en": "remember"
+  },
+  {
+    "id": 460,
+    "tr": "adım",
+    "en": "step"
+  },
+  {
+    "id": 461,
+    "tr": "erken",
+    "en": "early"
+  },
+  {
+    "id": 462,
+    "tr": "tutun",
+    "en": "hold"
+  },
+  {
+    "id": 463,
+    "tr": "batı",
+    "en": "west"
+  },
+  {
+    "id": 464,
+    "tr": "zemin",
+    "en": "ground"
+  },
+  {
+    "id": 465,
+    "tr": "faiz",
+    "en": "interest"
+  },
+  {
+    "id": 466,
+    "tr": "ulaşmak",
+    "en": "reach"
+  },
+  {
+    "id": 467,
+    "tr": "hızlı",
+    "en": "fast"
+  },
+  {
+    "id": 468,
+    "tr": "fiil",
+    "en": "verb"
+  },
+  {
+    "id": 470,
+    "tr": "dinle",
+    "en": "listen"
+  },
+  {
+    "id": 471,
+    "tr": "altı",
+    "en": "six"
+  },
+  {
+    "id": 472,
+    "tr": "tablo",
+    "en": "table"
+  },
+  {
+    "id": 473,
+    "tr": "seyahat",
+    "en": "travel"
+  },
+  {
+    "id": 475,
+    "tr": "sabah",
+    "en": "morning"
+  },
+  {
+    "id": 476,
+    "tr": "on",
+    "en": "ten"
+  },
+  {
+    "id": 477,
+    "tr": "basit",
+    "en": "simple"
+  },
+  {
+    "id": 478,
+    "tr": "birkaç",
+    "en": "several"
+  },
+  {
+    "id": 479,
+    "tr": "ünlü",
+    "en": "vowel"
+  },
+  {
+    "id": 480,
+    "tr": "doğru",
+    "en": "toward"
+  },
+  {
+    "id": 481,
+    "tr": "savaş",
+    "en": "war"
+  },
+  {
+    "id": 482,
+    "tr": "koymak",
+    "en": "lay"
+  },
+  {
+    "id": 483,
+    "tr": "karşı",
+    "en": "against"
+  },
+  {
+    "id": 484,
+    "tr": "desen",
+    "en": "pattern"
+  },
+  {
+    "id": 485,
+    "tr": "yavaş",
+    "en": "slow"
+  },
+  {
+    "id": 486,
+    "tr": "merkezi",
+    "en": "center"
+  },
+  {
+    "id": 487,
+    "tr": "aşk",
+    "en": "love"
+  },
+  {
+    "id": 488,
+    "tr": "kişi",
+    "en": "person"
+  },
+  {
+    "id": 489,
+    "tr": "para",
+    "en": "money"
+  },
+  {
+    "id": 490,
+    "tr": "hizmet",
+    "en": "serve"
+  },
+  {
+    "id": 491,
+    "tr": "görünür",
+    "en": "appear"
+  },
+  {
+    "id": 492,
+    "tr": "yol",
+    "en": "road"
+  },
+  {
+    "id": 493,
+    "tr": "harita",
+    "en": "map"
+  },
+  {
+    "id": 494,
+    "tr": "yağmur",
+    "en": "rain"
+  },
+  {
+    "id": 495,
+    "tr": "kural",
+    "en": "rule"
+  },
+  {
+    "id": 496,
+    "tr": "idare",
+    "en": "govern"
+  },
+  {
+    "id": 497,
+    "tr": "Çek",
+    "en": "pull"
+  },
+  {
+    "id": 498,
+    "tr": "soğuk",
+    "en": "cold"
+  },
+  {
+    "id": 499,
+    "tr": "haber",
+    "en": "notice"
+  },
+  {
+    "id": 500,
+    "tr": "ses",
+    "en": "voice"
+  },
+  {
+    "id": 501,
+    "tr": "enerji",
+    "en": "energy"
+  },
+  {
+    "id": 502,
+    "tr": "avı",
+    "en": "hunt"
+  },
+  {
+    "id": 503,
+    "tr": "muhtemel",
+    "en": "probable"
+  },
+  {
+    "id": 504,
+    "tr": "yatak",
+    "en": "bed"
+  },
+  {
+    "id": 505,
+    "tr": "kardeş",
+    "en": "brother"
+  },
+  {
+    "id": 506,
+    "tr": "yumurta",
+    "en": "egg"
+  },
+  {
+    "id": 507,
+    "tr": "binmek",
+    "en": "ride"
+  },
+  {
+    "id": 508,
+    "tr": "hücre",
+    "en": "cell"
+  },
+  {
+    "id": 509,
+    "tr": "inanıyorum",
+    "en": "believe"
+  },
+  {
+    "id": 510,
+    "tr": "belki",
+    "en": "perhaps"
+  },
+  {
+    "id": 511,
+    "tr": "seçmek",
+    "en": "pick"
+  },
+  {
+    "id": 512,
+    "tr": "ani",
+    "en": "sudden"
+  },
+  {
+    "id": 513,
+    "tr": "saymak",
+    "en": "count"
+  },
+  {
+    "id": 514,
+    "tr": "kare",
+    "en": "square"
+  },
+  {
+    "id": 515,
+    "tr": "neden",
+    "en": "reason"
+  },
+  {
+    "id": 516,
+    "tr": "uzunluk",
+    "en": "length"
+  },
+  {
+    "id": 517,
+    "tr": "temsil",
+    "en": "represent"
+  },
+  {
+    "id": 518,
+    "tr": "sanat",
+    "en": "art"
+  },
+  {
+    "id": 519,
+    "tr": "konu",
+    "en": "subject"
+  },
+  {
+    "id": 520,
+    "tr": "bölge",
+    "en": "region"
+  },
+  {
+    "id": 521,
+    "tr": "boyut",
+    "en": "size"
+  },
+  {
+    "id": 522,
+    "tr": "değiştirmek",
+    "en": "vary"
+  },
+  {
+    "id": 523,
+    "tr": "yerleşmek",
+    "en": "settle"
+  },
+  {
+    "id": 524,
+    "tr": "konuşmak",
+    "en": "speak"
+  },
+  {
+    "id": 525,
+    "tr": "ağırlık",
+    "en": "weight"
+  },
+  {
+    "id": 526,
+    "tr": "genel",
+    "en": "general"
+  },
+  {
+    "id": 527,
+    "tr": "buz",
+    "en": "ice"
+  },
+  {
+    "id": 528,
+    "tr": "madde",
+    "en": "matter"
+  },
+  {
+    "id": 529,
+    "tr": "daire",
+    "en": "circle"
+  },
+  {
+    "id": 530,
+    "tr": "çifti",
+    "en": "pair"
+  },
+  {
+    "id": 531,
+    "tr": "dahil",
+    "en": "include"
+  },
+  {
+    "id": 532,
+    "tr": "bölmek",
+    "en": "divide"
+  },
+  {
+    "id": 533,
+    "tr": "hece",
+    "en": "syllable"
+  },
+  {
+    "id": 534,
+    "tr": "keçe",
+    "en": "felt"
+  },
+  {
+    "id": 535,
+    "tr": "büyük",
+    "en": "grand"
+  },
+  {
+    "id": 536,
+    "tr": "top",
+    "en": "ball"
+  },
+  {
+    "id": 537,
+    "tr": "henüz",
+    "en": "yet"
+  },
+  {
+    "id": 538,
+    "tr": "dalga",
+    "en": "wave"
+  },
+  {
+    "id": 539,
+    "tr": "bırakın",
+    "en": "drop"
+  },
+  {
+    "id": 540,
+    "tr": "kalp",
+    "en": "heart"
+  },
+  {
+    "id": 541,
+    "tr": "duyuyorum",
+    "en": "am"
+  },
+  {
+    "id": 542,
+    "tr": "mevcut",
+    "en": "present"
+  },
+  {
+    "id": 543,
+    "tr": "ağır",
+    "en": "heavy"
+  },
+  {
+    "id": 544,
+    "tr": "dans",
+    "en": "dance"
+  },
+  {
+    "id": 545,
+    "tr": "motor",
+    "en": "engine"
+  },
+  {
+    "id": 546,
+    "tr": "pozisyon",
+    "en": "position"
+  },
+  {
+    "id": 547,
+    "tr": "kol",
+    "en": "arm"
+  },
+  {
+    "id": 548,
+    "tr": "geniş",
+    "en": "wide"
+  },
+  {
+    "id": 549,
+    "tr": "yelken",
+    "en": "sail"
+  },
+  {
+    "id": 550,
+    "tr": "materyal",
+    "en": "material"
+  },
+  {
+    "id": 551,
+    "tr": "kesir",
+    "en": "fraction"
+  },
+  {
+    "id": 552,
+    "tr": "orman",
+    "en": "forest"
+  },
+  {
+    "id": 553,
+    "tr": "oturmak",
+    "en": "sit"
+  },
+  {
+    "id": 554,
+    "tr": "yarış",
+    "en": "race"
+  },
+  {
+    "id": 555,
+    "tr": "penceresi",
+    "en": "window"
+  },
+  {
+    "id": 556,
+    "tr": "mağaza",
+    "en": "store"
+  },
+  {
+    "id": 557,
+    "tr": "yaz",
+    "en": "summer"
+  },
+  {
+    "id": 558,
+    "tr": "tren",
+    "en": "train"
+  },
+  {
+    "id": 559,
+    "tr": "uyku",
+    "en": "sleep"
+  },
+  {
+    "id": 560,
+    "tr": "kanıtlamak",
+    "en": "prove"
+  },
+  {
+    "id": 561,
+    "tr": "yalnız",
+    "en": "lone"
+  },
+  {
+    "id": 562,
+    "tr": "bacak",
+    "en": "leg"
+  },
+  {
+    "id": 563,
+    "tr": "egzersiz",
+    "en": "exercise"
+  },
+  {
+    "id": 564,
+    "tr": "duvar",
+    "en": "wall"
+  },
+  {
+    "id": 566,
+    "tr": "dağ",
+    "en": "mount"
+  },
+  {
+    "id": 567,
+    "tr": "dilek",
+    "en": "wish"
+  },
+  {
+    "id": 568,
+    "tr": "gökyüzü",
+    "en": "sky"
+  },
+  {
+    "id": 569,
+    "tr": "kurulu",
+    "en": "board"
+  },
+  {
+    "id": 570,
+    "tr": "sevinç",
+    "en": "joy"
+  },
+  {
+    "id": 571,
+    "tr": "kış",
+    "en": "winter"
+  },
+  {
+    "id": 573,
+    "tr": "yazılı",
+    "en": "written"
+  },
+  {
+    "id": 574,
+    "tr": "vahşi",
+    "en": "wild"
+  },
+  {
+    "id": 575,
+    "tr": "enstrüman",
+    "en": "instrument"
+  },
+  {
+    "id": 576,
+    "tr": "tuttu",
+    "en": "kept"
+  },
+  {
+    "id": 577,
+    "tr": "cam",
+    "en": "glass"
+  },
+  {
+    "id": 578,
+    "tr": "çim",
+    "en": "grass"
+  },
+  {
+    "id": 579,
+    "tr": "inek",
+    "en": "cow"
+  },
+  {
+    "id": 580,
+    "tr": "iş",
+    "en": "job"
+  },
+  {
+    "id": 581,
+    "tr": "kenar",
+    "en": "edge"
+  },
+  {
+    "id": 582,
+    "tr": "işareti",
+    "en": "sign"
+  },
+  {
+    "id": 583,
+    "tr": "ziyareti",
+    "en": "visit"
+  },
+  {
+    "id": 584,
+    "tr": "geçmiş",
+    "en": "past"
+  },
+  {
+    "id": 585,
+    "tr": "yumuşak",
+    "en": "soft"
+  },
+  {
+    "id": 586,
+    "tr": "eğlenceli",
+    "en": "fun"
+  },
+  {
+    "id": 587,
+    "tr": "parlak",
+    "en": "bright"
+  },
+  {
+    "id": 588,
+    "tr": "gaz",
+    "en": "gas"
+  },
+  {
+    "id": 589,
+    "tr": "hava",
+    "en": "weather"
+  },
+  {
+    "id": 590,
+    "tr": "ay",
+    "en": "month"
+  },
+  {
+    "id": 591,
+    "tr": "milyon",
+    "en": "million"
+  },
+  {
+    "id": 592,
+    "tr": "ayı",
+    "en": "bear"
+  },
+  {
+    "id": 593,
+    "tr": "bitirmek",
+    "en": "finish"
+  },
+  {
+    "id": 594,
+    "tr": "mutlu",
+    "en": "happy"
+  },
+  {
+    "id": 595,
+    "tr": "umut",
+    "en": "hope"
+  },
+  {
+    "id": 596,
+    "tr": "çiçek",
+    "en": "flower"
+  },
+  {
+    "id": 597,
+    "tr": "giydirmek",
+    "en": "clothe"
+  },
+  {
+    "id": 598,
+    "tr": "garip",
+    "en": "strange"
+  },
+  {
+    "id": 599,
+    "tr": "gitti",
+    "en": "gone"
+  },
+  {
+    "id": 600,
+    "tr": "ticaret",
+    "en": "trade"
+  },
+  {
+    "id": 601,
+    "tr": "melodi",
+    "en": "melody"
+  },
+  {
+    "id": 602,
+    "tr": "gezi",
+    "en": "trip"
+  },
+  {
+    "id": 603,
+    "tr": "ofis",
+    "en": "office"
+  },
+  {
+    "id": 604,
+    "tr": "almak",
+    "en": "receive"
+  },
+  {
+    "id": 605,
+    "tr": "satır",
+    "en": "row"
+  },
+  {
+    "id": 606,
+    "tr": "ağız",
+    "en": "mouth"
+  },
+  {
+    "id": 607,
+    "tr": "tam",
+    "en": "exact"
+  },
+  {
+    "id": 608,
+    "tr": "sembol",
+    "en": "symbol"
+  },
+  {
+    "id": 609,
+    "tr": "ölmek",
+    "en": "die"
+  },
+  {
+    "id": 611,
+    "tr": "sorun",
+    "en": "trouble"
+  },
+  {
+    "id": 612,
+    "tr": "bağırmak",
+    "en": "shout"
+  },
+  {
+    "id": 613,
+    "tr": "hariç",
+    "en": "except"
+  },
+  {
+    "id": 614,
+    "tr": "yazdı",
+    "en": "wrote"
+  },
+  {
+    "id": 615,
+    "tr": "tohum",
+    "en": "seed"
+  },
+  {
+    "id": 616,
+    "tr": "sesi",
+    "en": "tone"
+  },
+  {
+    "id": 617,
+    "tr": "katılmak",
+    "en": "join"
+  },
+  {
+    "id": 618,
+    "tr": "önermek",
+    "en": "suggest"
+  },
+  {
+    "id": 619,
+    "tr": "temiz",
+    "en": "clean"
+  },
+  {
+    "id": 620,
+    "tr": "molası",
+    "en": "break"
+  },
+  {
+    "id": 621,
+    "tr": "bayan",
+    "en": "lady"
+  },
+  {
+    "id": 622,
+    "tr": "yarda",
+    "en": "yard"
+  },
+  {
+    "id": 623,
+    "tr": "yükselecek",
+    "en": "rise"
+  },
+  {
+    "id": 624,
+    "tr": "kötü",
+    "en": "bad"
+  },
+  {
+    "id": 625,
+    "tr": "darbe",
+    "en": "blow"
+  },
+  {
+    "id": 626,
+    "tr": "yağ",
+    "en": "oil"
+  },
+  {
+    "id": 627,
+    "tr": "kan",
+    "en": "blood"
+  },
+  {
+    "id": 628,
+    "tr": "dokunma",
+    "en": "touch"
+  },
+  {
+    "id": 629,
+    "tr": "büyüdü",
+    "en": "grew"
+  },
+  {
+    "id": 630,
+    "tr": "yüzde",
+    "en": "cent"
+  },
+  {
+    "id": 631,
+    "tr": "karıştırmak",
+    "en": "mix"
+  },
+  {
+    "id": 632,
+    "tr": "takım",
+    "en": "team"
+  },
+  {
+    "id": 633,
+    "tr": "tel",
+    "en": "wire"
+  },
+  {
+    "id": 634,
+    "tr": "maliyet",
+    "en": "cost"
+  },
+  {
+    "id": 635,
+    "tr": "kaybetti",
+    "en": "lost"
+  },
+  {
+    "id": 636,
+    "tr": "kahverengi",
+    "en": "brown"
+  },
+  {
+    "id": 637,
+    "tr": "giymek",
+    "en": "wear"
+  },
+  {
+    "id": 638,
+    "tr": "bahçe",
+    "en": "garden"
+  },
+  {
+    "id": 639,
+    "tr": "eşit",
+    "en": "equal"
+  },
+  {
+    "id": 640,
+    "tr": "gönderildi",
+    "en": "sent"
+  },
+  {
+    "id": 641,
+    "tr": "seçim",
+    "en": "choose"
+  },
+  {
+    "id": 642,
+    "tr": "düştü",
+    "en": "fell"
+  },
+  {
+    "id": 643,
+    "tr": "uygun",
+    "en": "fit"
+  },
+  {
+    "id": 644,
+    "tr": "akış",
+    "en": "flow"
+  },
+  {
+    "id": 645,
+    "tr": "adil",
+    "en": "fair"
+  },
+  {
+    "id": 646,
+    "tr": "banka",
+    "en": "bank"
+  },
+  {
+    "id": 647,
+    "tr": "toplamak",
+    "en": "collect"
+  },
+  {
+    "id": 648,
+    "tr": "kaydetmek",
+    "en": "save"
+  },
+  {
+    "id": 649,
+    "tr": "kontrolü",
+    "en": "control"
+  },
+  {
+    "id": 650,
+    "tr": "ondalık",
+    "en": "decimal"
+  },
+  {
+    "id": 651,
+    "tr": "kulak",
+    "en": "ear"
+  },
+  {
+    "id": 652,
+    "tr": "başka",
+    "en": "else"
+  },
+  {
+    "id": 653,
+    "tr": "oldukça",
+    "en": "quite"
+  },
+  {
+    "id": 654,
+    "tr": "kırdı",
+    "en": "broke"
+  },
+  {
+    "id": 655,
+    "tr": "dava",
+    "en": "case"
+  },
+  {
+    "id": 656,
+    "tr": "orta",
+    "en": "middle"
+  },
+  {
+    "id": 657,
+    "tr": "öldürmek",
+    "en": "kill"
+  },
+  {
+    "id": 658,
+    "tr": "oğlu",
+    "en": "son"
+  },
+  {
+    "id": 659,
+    "tr": "göl",
+    "en": "lake"
+  },
+  {
+    "id": 660,
+    "tr": "an",
+    "en": "moment"
+  },
+  {
+    "id": 661,
+    "tr": "ölçek",
+    "en": "scale"
+  },
+  {
+    "id": 663,
+    "tr": "bahar",
+    "en": "spring"
+  },
+  {
+    "id": 664,
+    "tr": "gözlemlemek",
+    "en": "observe"
+  },
+  {
+    "id": 665,
+    "tr": "çocuk",
+    "en": "child"
+  },
+  {
+    "id": 666,
+    "tr": "düz",
+    "en": "straight"
+  },
+  {
+    "id": 667,
+    "tr": "ünsüz",
+    "en": "consonant"
+  },
+  {
+    "id": 668,
+    "tr": "ulus",
+    "en": "nation"
+  },
+  {
+    "id": 669,
+    "tr": "Sözlük",
+    "en": "dictionary"
+  },
+  {
+    "id": 670,
+    "tr": "süt",
+    "en": "milk"
+  },
+  {
+    "id": 671,
+    "tr": "hız",
+    "en": "speed"
+  },
+  {
+    "id": 672,
+    "tr": "yöntem",
+    "en": "method"
+  },
+  {
+    "id": 673,
+    "tr": "Organ",
+    "en": "organ"
+  },
+  {
+    "id": 674,
+    "tr": "ödeme",
+    "en": "pay"
+  },
+  {
+    "id": 675,
+    "tr": "yaş",
+    "en": "age"
+  },
+  {
+    "id": 676,
+    "tr": "bölüm",
+    "en": "section"
+  },
+  {
+    "id": 677,
+    "tr": "elbise",
+    "en": "dress"
+  },
+  {
+    "id": 678,
+    "tr": "bulut",
+    "en": "cloud"
+  },
+  {
+    "id": 679,
+    "tr": "sürpriz",
+    "en": "surprise"
+  },
+  {
+    "id": 680,
+    "tr": "sessiz",
+    "en": "quiet"
+  },
+  {
+    "id": 681,
+    "tr": "taş",
+    "en": "stone"
+  },
+  {
+    "id": 682,
+    "tr": "küçücük",
+    "en": "tiny"
+  },
+  {
+    "id": 683,
+    "tr": "tırmanış",
+    "en": "climb"
+  },
+  {
+    "id": 684,
+    "tr": "serin",
+    "en": "cool"
+  },
+  {
+    "id": 685,
+    "tr": "dizayn",
+    "en": "design"
+  },
+  {
+    "id": 686,
+    "tr": "kötü",
+    "en": "poor"
+  },
+  {
+    "id": 687,
+    "tr": "çok",
+    "en": "lot"
+  },
+  {
+    "id": 688,
+    "tr": "deneme",
+    "en": "experiment"
+  },
+  {
+    "id": 689,
+    "tr": "alt",
+    "en": "bottom"
+  },
+  {
+    "id": 690,
+    "tr": "anahtar",
+    "en": "key"
+  },
+  {
+    "id": 691,
+    "tr": "demir",
+    "en": "iron"
+  },
+  {
+    "id": 692,
+    "tr": "tek",
+    "en": "single"
+  },
+  {
+    "id": 693,
+    "tr": "sopa",
+    "en": "stick"
+  },
+  {
+    "id": 694,
+    "tr": "düz",
+    "en": "flat"
+  },
+  {
+    "id": 695,
+    "tr": "yirmi",
+    "en": "twenty"
+  },
+  {
+    "id": 696,
+    "tr": "cilt",
+    "en": "skin"
+  },
+  {
+    "id": 697,
+    "tr": "gülümseme",
+    "en": "smile"
+  },
+  {
+    "id": 698,
+    "tr": "kırışık",
+    "en": "crease"
+  },
+  {
+    "id": 699,
+    "tr": "delik",
+    "en": "hole"
+  },
+  {
+    "id": 700,
+    "tr": "atlama",
+    "en": "jump"
+  },
+  {
+    "id": 701,
+    "tr": "bebek",
+    "en": "baby"
+  },
+  {
+    "id": 702,
+    "tr": "sekiz",
+    "en": "eight"
+  },
+  {
+    "id": 703,
+    "tr": "köy",
+    "en": "village"
+  },
+  {
+    "id": 704,
+    "tr": "karşılamak",
+    "en": "meet"
+  },
+  {
+    "id": 705,
+    "tr": "kök",
+    "en": "root"
+  },
+  {
+    "id": 706,
+    "tr": "satın",
+    "en": "buy"
+  },
+  {
+    "id": 707,
+    "tr": "yükseltmek",
+    "en": "raise"
+  },
+  {
+    "id": 708,
+    "tr": "çözmek",
+    "en": "solve"
+  },
+  {
+    "id": 709,
+    "tr": "metal",
+    "en": "metal"
+  },
+  {
+    "id": 710,
+    "tr": "olsun",
+    "en": "whether"
+  },
+  {
+    "id": 711,
+    "tr": "it",
+    "en": "push"
+  },
+  {
+    "id": 712,
+    "tr": "yedi",
+    "en": "seven"
+  },
+  {
+    "id": 713,
+    "tr": "paragraf",
+    "en": "paragraph"
+  },
+  {
+    "id": 714,
+    "tr": "üçüncü",
+    "en": "third"
+  },
+  {
+    "id": 716,
+    "tr": "tutulan",
+    "en": "held"
+  },
+  {
+    "id": 717,
+    "tr": "saç",
+    "en": "hair"
+  },
+  {
+    "id": 718,
+    "tr": "tanımlamak",
+    "en": "describe"
+  },
+  {
+    "id": 719,
+    "tr": "aşçı",
+    "en": "cook"
+  },
+  {
+    "id": 720,
+    "tr": "zemin",
+    "en": "floor"
+  },
+  {
+    "id": 722,
+    "tr": "sonuç",
+    "en": "result"
+  },
+  {
+    "id": 723,
+    "tr": "yanmak",
+    "en": "burn"
+  },
+  {
+    "id": 724,
+    "tr": "tepe",
+    "en": "hill"
+  },
+  {
+    "id": 725,
+    "tr": "güvenli",
+    "en": "safe"
+  },
+  {
+    "id": 726,
+    "tr": "kedi",
+    "en": "cat"
+  },
+  {
+    "id": 727,
+    "tr": "yüzyıl",
+    "en": "century"
+  },
+  {
+    "id": 728,
+    "tr": "düşünmek",
+    "en": "consider"
+  },
+  {
+    "id": 729,
+    "tr": "tipi",
+    "en": "type"
+  },
+  {
+    "id": 730,
+    "tr": "hukuk",
+    "en": "law"
+  },
+  {
+    "id": 731,
+    "tr": "bit",
+    "en": "bit"
+  },
+  {
+    "id": 732,
+    "tr": "sahil",
+    "en": "coast"
+  },
+  {
+    "id": 733,
+    "tr": "kopya",
+    "en": "copy"
+  },
+  {
+    "id": 734,
+    "tr": "ifade",
+    "en": "phrase"
+  },
+  {
+    "id": 735,
+    "tr": "sessiz",
+    "en": "silent"
+  },
+  {
+    "id": 737,
+    "tr": "kum",
+    "en": "sand"
+  },
+  {
+    "id": 738,
+    "tr": "toprak",
+    "en": "soil"
+  },
+  {
+    "id": 739,
+    "tr": "rulo",
+    "en": "roll"
+  },
+  {
+    "id": 740,
+    "tr": "sıcaklık",
+    "en": "temperature"
+  },
+  {
+    "id": 741,
+    "tr": "parmak",
+    "en": "finger"
+  },
+  {
+    "id": 742,
+    "tr": "sanayi",
+    "en": "industry"
+  },
+  {
+    "id": 743,
+    "tr": "değeri",
+    "en": "value"
+  },
+  {
+    "id": 744,
+    "tr": "kavga",
+    "en": "fight"
+  },
+  {
+    "id": 745,
+    "tr": "yalan",
+    "en": "lie"
+  },
+  {
+    "id": 746,
+    "tr": "yendi",
+    "en": "beat"
+  },
+  {
+    "id": 747,
+    "tr": "heyecanlandırmak",
+    "en": "excite"
+  },
+  {
+    "id": 748,
+    "tr": "doğal",
+    "en": "natural"
+  },
+  {
+    "id": 749,
+    "tr": "görünüm",
+    "en": "view"
+  },
+  {
+    "id": 750,
+    "tr": "sense",
+    "en": "sense"
+  },
+  {
+    "id": 751,
+    "tr": "sermaye",
+    "en": "capital"
+  },
+  {
+    "id": 752,
+    "tr": "olmaz",
+    "en": "won’t"
+  },
+  {
+    "id": 753,
+    "tr": "sandalye",
+    "en": "chair"
+  },
+  {
+    "id": 754,
+    "tr": "tehlike",
+    "en": "danger"
+  },
+  {
+    "id": 755,
+    "tr": "meyve",
+    "en": "fruit"
+  },
+  {
+    "id": 756,
+    "tr": "zengin",
+    "en": "rich"
+  },
+  {
+    "id": 757,
+    "tr": "kalın",
+    "en": "thick"
+  },
+  {
+    "id": 758,
+    "tr": "asker",
+    "en": "soldier"
+  },
+  {
+    "id": 759,
+    "tr": "süreç",
+    "en": "process"
+  },
+  {
+    "id": 760,
+    "tr": "işletmek",
+    "en": "operate"
+  },
+  {
+    "id": 761,
+    "tr": "uygulama",
+    "en": "practice"
+  },
+  {
+    "id": 762,
+    "tr": "ayrı",
+    "en": "separate"
+  },
+  {
+    "id": 763,
+    "tr": "zor",
+    "en": "difficult"
+  },
+  {
+    "id": 764,
+    "tr": "doktor",
+    "en": "doctor"
+  },
+  {
+    "id": 765,
+    "tr": "lütfen",
+    "en": "please"
+  },
+  {
+    "id": 766,
+    "tr": "korumak",
+    "en": "protect"
+  },
+  {
+    "id": 767,
+    "tr": "öğlen",
+    "en": "noon"
+  },
+  {
+    "id": 768,
+    "tr": "kırpma",
+    "en": "crop"
+  },
+  {
+    "id": 769,
+    "tr": "çağdaş",
+    "en": "modern"
+  },
+  {
+    "id": 770,
+    "tr": "eleman",
+    "en": "element"
+  },
+  {
+    "id": 771,
+    "tr": "vurmak",
+    "en": "hit"
+  },
+  {
+    "id": 772,
+    "tr": "öğrenci",
+    "en": "student"
+  },
+  {
+    "id": 773,
+    "tr": "köşe",
+    "en": "corner"
+  },
+  {
+    "id": 774,
+    "tr": "parti",
+    "en": "party"
+  },
+  {
+    "id": 775,
+    "tr": "besleme",
+    "en": "supply"
+  },
+  {
+    "id": 776,
+    "tr": "kimin",
+    "en": "whose"
+  },
+  {
+    "id": 777,
+    "tr": "yerleştirmek",
+    "en": "locate"
+  },
+  {
+    "id": 778,
+    "tr": "halka",
+    "en": "ring"
+  },
+  {
+    "id": 779,
+    "tr": "karakter",
+    "en": "character"
+  },
+  {
+    "id": 780,
+    "tr": "böcek",
+    "en": "insect"
+  },
+  {
+    "id": 781,
+    "tr": "yakalandı",
+    "en": "caught"
+  },
+  {
+    "id": 782,
+    "tr": "dönemi",
+    "en": "period"
+  },
+  {
+    "id": 783,
+    "tr": "göstermektedir",
+    "en": "indicate"
+  },
+  {
+    "id": 784,
+    "tr": "radyo",
+    "en": "radio"
+  },
+  {
+    "id": 785,
+    "tr": "konuştu",
+    "en": "spoke"
+  },
+  {
+    "id": 786,
+    "tr": "atomudur",
+    "en": "atom"
+  },
+  {
+    "id": 787,
+    "tr": "insan",
+    "en": "human"
+  },
+  {
+    "id": 788,
+    "tr": "geçmişi",
+    "en": "history"
+  },
+  {
+    "id": 789,
+    "tr": "etkisi",
+    "en": "effect"
+  },
+  {
+    "id": 790,
+    "tr": "elektrik",
+    "en": "electric"
+  },
+  {
+    "id": 791,
+    "tr": "bekliyoruz",
+    "en": "expect"
+  },
+  {
+    "id": 792,
+    "tr": "kemik",
+    "en": "bone"
+  },
+  {
+    "id": 793,
+    "tr": "demiryolu",
+    "en": "rail"
+  },
+  {
+    "id": 794,
+    "tr": "hayal",
+    "en": "imagine"
+  },
+  {
+    "id": 795,
+    "tr": "sağlamak",
+    "en": "provide"
+  },
+  {
+    "id": 796,
+    "tr": "katılıyorum",
+    "en": "agree"
+  },
+  {
+    "id": 797,
+    "tr": "böylece",
+    "en": "thus"
+  },
+  {
+    "id": 798,
+    "tr": "nazik",
+    "en": "gentle"
+  },
+  {
+    "id": 799,
+    "tr": "kadın",
+    "en": "woman"
+  },
+  {
+    "id": 800,
+    "tr": "kaptan",
+    "en": "captain"
+  },
+  {
+    "id": 801,
+    "tr": "sanırım",
+    "en": "guess"
+  },
+  {
+    "id": 802,
+    "tr": "gerekli",
+    "en": "necessary"
+  },
+  {
+    "id": 803,
+    "tr": "keskin",
+    "en": "sharp"
+  },
+  {
+    "id": 804,
+    "tr": "kanat",
+    "en": "wing"
+  },
+  {
+    "id": 805,
+    "tr": "oluşturmak",
+    "en": "create"
+  },
+  {
+    "id": 806,
+    "tr": "komşu",
+    "en": "neighbor"
+  },
+  {
+    "id": 807,
+    "tr": "yıkama",
+    "en": "wash"
+  },
+  {
+    "id": 808,
+    "tr": "yarasa",
+    "en": "bat"
+  },
+  {
+    "id": 809,
+    "tr": "yerine",
+    "en": "rather"
+  },
+  {
+    "id": 810,
+    "tr": "kalabalık",
+    "en": "crowd"
+  },
+  {
+    "id": 811,
+    "tr": "mısır",
+    "en": "corn"
+  },
+  {
+    "id": 812,
+    "tr": "karşılaştırma",
+    "en": "compare"
+  },
+  {
+    "id": 813,
+    "tr": "şiir",
+    "en": "poem"
+  },
+  {
+    "id": 814,
+    "tr": "dize",
+    "en": "string"
+  },
+  {
+    "id": 815,
+    "tr": "çan",
+    "en": "bell"
+  },
+  {
+    "id": 816,
+    "tr": "bağlı",
+    "en": "depend"
+  },
+  {
+    "id": 817,
+    "tr": "et",
+    "en": "meat"
+  },
+  {
+    "id": 818,
+    "tr": "ovmak",
+    "en": "rub"
+  },
+  {
+    "id": 819,
+    "tr": "tüp",
+    "en": "tube"
+  },
+  {
+    "id": 820,
+    "tr": "ünlü",
+    "en": "famous"
+  },
+  {
+    "id": 921,
+    "tr": "dolar",
+    "en": "dollar"
+  },
+  {
+    "id": 822,
+    "tr": "akışı",
+    "en": "stream"
+  },
+  {
+    "id": 823,
+    "tr": "korku",
+    "en": "fear"
+  },
+  {
+    "id": 284,
+    "tr": "görüş",
+    "en": "sight"
+  },
+  {
+    "id": 825,
+    "tr": "ince",
+    "en": "thin"
+  },
+  {
+    "id": 826,
+    "tr": "üçgen",
+    "en": "triangle"
+  },
+  {
+    "id": 827,
+    "tr": "gezegen",
+    "en": "planet"
+  },
+  {
+    "id": 828,
+    "tr": "acele",
+    "en": "hurry"
+  },
+  {
+    "id": 829,
+    "tr": "baş",
+    "en": "chief"
+  },
+  {
+    "id": 830,
+    "tr": "koloni",
+    "en": "colony"
+  },
+  {
+    "id": 831,
+    "tr": "saat",
+    "en": "clock"
+  },
+  {
+    "id": 832,
+    "tr": "mayın",
+    "en": "mine"
+  },
+  {
+    "id": 833,
+    "tr": "kravat",
+    "en": "tie"
+  },
+  {
+    "id": 834,
+    "tr": "girin",
+    "en": "enter"
+  },
+  {
+    "id": 835,
+    "tr": "büyük",
+    "en": "major"
+  },
+  {
+    "id": 836,
+    "tr": "taze",
+    "en": "fresh"
+  },
+  {
+    "id": 837,
+    "tr": "arama",
+    "en": "search"
+  },
+  {
+    "id": 838,
+    "tr": "göndermek",
+    "en": "send"
+  },
+  {
+    "id": 839,
+    "tr": "sarı",
+    "en": "yellow"
+  },
+  {
+    "id": 840,
+    "tr": "gun",
+    "en": "gun"
+  },
+  {
+    "id": 841,
+    "tr": "izin",
+    "en": "allow"
+  },
+  {
+    "id": 842,
+    "tr": "baskı",
+    "en": "print"
+  },
+  {
+    "id": 843,
+    "tr": "ölü",
+    "en": "dead"
+  },
+  {
+    "id": 844,
+    "tr": "nokta",
+    "en": "spot"
+  },
+  {
+    "id": 845,
+    "tr": "çöl",
+    "en": "desert"
+  },
+  {
+    "id": 847,
+    "tr": "akım",
+    "en": "current"
+  },
+  {
+    "id": 848,
+    "tr": "asansör",
+    "en": "lift"
+  },
+  {
+    "id": 840,
+    "tr": "gül",
+    "en": "rose"
+  },
+  {
+    "id": 850,
+    "tr": "varmak",
+    "en": "arrive"
+  },
+  {
+    "id": 851,
+    "tr": "usta",
+    "en": "master"
+  },
+  {
+    "id": 852,
+    "tr": "iz",
+    "en": "track"
+  },
+  {
+    "id": 853,
+    "tr": "ebeveyn",
+    "en": "parent"
+  },
+  {
+    "id": 854,
+    "tr": "kıyı",
+    "en": "shore"
+  },
+  {
+    "id": 855,
+    "tr": "bölünme",
+    "en": "division"
+  },
+  {
+    "id": 856,
+    "tr": "levha",
+    "en": "sheet"
+  },
+  {
+    "id": 857,
+    "tr": "madde",
+    "en": "substance"
+  },
+  {
+    "id": 858,
+    "tr": "iyilik",
+    "en": "favor"
+  },
+  {
+    "id": 859,
+    "tr": "bağlamak",
+    "en": "connect"
+  },
+  {
+    "id": 860,
+    "tr": "sonrası",
+    "en": "post"
+  },
+  {
+    "id": 861,
+    "tr": "harcamak",
+    "en": "spend"
+  },
+  {
+    "id": 862,
+    "tr": "akor",
+    "en": "chord"
+  },
+  {
+    "id": 863,
+    "tr": "şişman",
+    "en": "fat"
+  },
+  {
+    "id": 864,
+    "tr": "memnun",
+    "en": "glad"
+  },
+  {
+    "id": 865,
+    "tr": "orijinal",
+    "en": "original"
+  },
+  {
+    "id": 866,
+    "tr": "payı",
+    "en": "share"
+  },
+  {
+    "id": 867,
+    "tr": "istasyon",
+    "en": "station"
+  },
+  {
+    "id": 868,
+    "tr": "baba",
+    "en": "dad"
+  },
+  {
+    "id": 869,
+    "tr": "ekmek",
+    "en": "bread"
+  },
+  {
+    "id": 870,
+    "tr": "şarj",
+    "en": "charge"
+  },
+  {
+    "id": 871,
+    "tr": "uygun",
+    "en": "proper"
+  },
+  {
+    "id": 872,
+    "tr": "bar",
+    "en": "bar"
+  },
+  {
+    "id": 873,
+    "tr": "teklif",
+    "en": "offer"
+  },
+  {
+    "id": 874,
+    "tr": "segmenti",
+    "en": "segment"
+  },
+  {
+    "id": 875,
+    "tr": "köle",
+    "en": "slave"
+  },
+  {
+    "id": 876,
+    "tr": "ördek",
+    "en": "duck"
+  },
+  {
+    "id": 877,
+    "tr": "anlık",
+    "en": "instant"
+  },
+  {
+    "id": 878,
+    "tr": "pazar",
+    "en": "market"
+  },
+  {
+    "id": 879,
+    "tr": "derecesi",
+    "en": "degree"
+  },
+  {
+    "id": 880,
+    "tr": "doldurmak",
+    "en": "populate"
+  },
+  {
+    "id": 881,
+    "tr": "civciv",
+    "en": "chick"
+  },
+  {
+    "id": 882,
+    "tr": "sevgili",
+    "en": "dear"
+  },
+  {
+    "id": 883,
+    "tr": "düşman",
+    "en": "enemy"
+  },
+  {
+    "id": 884,
+    "tr": "cevap",
+    "en": "reply"
+  },
+  {
+    "id": 885,
+    "tr": "içki",
+    "en": "drink"
+  },
+  {
+    "id": 886,
+    "tr": "meydana",
+    "en": "occur"
+  },
+  {
+    "id": 887,
+    "tr": "destek",
+    "en": "support"
+  },
+  {
+    "id": 888,
+    "tr": "konuşma",
+    "en": "speech"
+  },
+  {
+    "id": 889,
+    "tr": "doğa",
+    "en": "nature"
+  },
+  {
+    "id": 890,
+    "tr": "aralığı",
+    "en": "range"
+  },
+  {
+    "id": 891,
+    "tr": "buhar",
+    "en": "steam"
+  },
+  {
+    "id": 892,
+    "tr": "hareket",
+    "en": "motion"
+  },
+  {
+    "id": 893,
+    "tr": "yol",
+    "en": "path"
+  },
+  {
+    "id": 894,
+    "tr": "sıvı",
+    "en": "liquid"
+  },
+  {
+    "id": 896,
+    "tr": "demek",
+    "en": "meant"
+  },
+  {
+    "id": 897,
+    "tr": "bölüm",
+    "en": "quotient"
+  },
+  {
+    "id": 898,
+    "tr": "dişler",
+    "en": "teeth"
+  },
+  {
+    "id": 899,
+    "tr": "kabuk",
+    "en": "shell"
+  },
+  {
+    "id": 900,
+    "tr": "boyun",
+    "en": "neck"
+  },
+  {
+    "id": 901,
+    "tr": "oksijen",
+    "en": "oxygen"
+  },
+  {
+    "id": 902,
+    "tr": "şeker",
+    "en": "sugar"
+  },
+  {
+    "id": 903,
+    "tr": "ölüm",
+    "en": "death"
+  },
+  {
+    "id": 904,
+    "tr": "güzel",
+    "en": "pretty"
+  },
+  {
+    "id": 905,
+    "tr": "beceri",
+    "en": "skill"
+  },
+  {
+    "id": 906,
+    "tr": "kadın",
+    "en": "women"
+  },
+  {
+    "id": 907,
+    "tr": "sezon",
+    "en": "season"
+  },
+  {
+    "id": 908,
+    "tr": "çözüm",
+    "en": "solution"
+  },
+  {
+    "id": 909,
+    "tr": "mıknatıs",
+    "en": "magnet"
+  },
+  {
+    "id": 910,
+    "tr": "gümüş",
+    "en": "silver"
+  },
+  {
+    "id": 911,
+    "tr": "teşekkürler",
+    "en": "thank"
+  },
+  {
+    "id": 912,
+    "tr": "şube",
+    "en": "branch"
+  },
+  {
+    "id": 913,
+    "tr": "maç",
+    "en": "match"
+  },
+  {
+    "id": 914,
+    "tr": "sonek",
+    "en": "suffix"
+  },
+  {
+    "id": 915,
+    "tr": "özellikle",
+    "en": "especially"
+  },
+  {
+    "id": 916,
+    "tr": "incir",
+    "en": "fig"
+  },
+  {
+    "id": 917,
+    "tr": "korkuyor",
+    "en": "afraid"
+  },
+  {
+    "id": 918,
+    "tr": "büyük",
+    "en": "huge"
+  },
+  {
+    "id": 919,
+    "tr": "kardeş",
+    "en": "sister"
+  },
+  {
+    "id": 920,
+    "tr": "çelik",
+    "en": "steel"
+  },
+  {
+    "id": 921,
+    "tr": "tartışmak",
+    "en": "discuss"
+  },
+  {
+    "id": 922,
+    "tr": "ileri",
+    "en": "forward"
+  },
+  {
+    "id": 923,
+    "tr": "benzer",
+    "en": "similar"
+  },
+  {
+    "id": 924,
+    "tr": "kılavuz",
+    "en": "guide"
+  },
+  {
+    "id": 925,
+    "tr": "deneyim",
+    "en": "experience"
+  },
+  {
+    "id": 926,
+    "tr": "puan",
+    "en": "score"
+  },
+  {
+    "id": 927,
+    "tr": "elma",
+    "en": "apple"
+  },
+  {
+    "id": 929,
+    "tr": "açtı",
+    "en": "led"
+  },
+  {
+    "id": 930,
+    "tr": "zift",
+    "en": "pitch"
+  },
+  {
+    "id": 931,
+    "tr": "ceket",
+    "en": "coat"
+  },
+  {
+    "id": 932,
+    "tr": "kitle",
+    "en": "mass"
+  },
+  {
+    "id": 933,
+    "tr": "kart",
+    "en": "card"
+  },
+  {
+    "id": 934,
+    "tr": "bant",
+    "en": "band"
+  },
+  {
+    "id": 935,
+    "tr": "halat",
+    "en": "rope"
+  },
+  {
+    "id": 936,
+    "tr": "kayma",
+    "en": "slip"
+  },
+  {
+    "id": 937,
+    "tr": "win",
+    "en": "win"
+  },
+  {
+    "id": 938,
+    "tr": "rüya",
+    "en": "dream"
+  },
+  {
+    "id": 939,
+    "tr": "akşam",
+    "en": "evening"
+  },
+  {
+    "id": 940,
+    "tr": "durumu",
+    "en": "condition"
+  },
+  {
+    "id": 941,
+    "tr": "beslemek",
+    "en": "feed"
+  },
+  {
+    "id": 942,
+    "tr": "aracı",
+    "en": "tool"
+  },
+  {
+    "id": 943,
+    "tr": "toplam",
+    "en": "total"
+  },
+  {
+    "id": 944,
+    "tr": "temel",
+    "en": "basic"
+  },
+  {
+    "id": 945,
+    "tr": "koku",
+    "en": "smell"
+  },
+  {
+    "id": 946,
+    "tr": "vadi",
+    "en": "valley"
+  },
+  {
+    "id": 947,
+    "tr": "ne",
+    "en": "nor"
+  },
+  {
+    "id": 948,
+    "tr": "çift",
+    "en": "double"
+  },
+  {
+    "id": 949,
+    "tr": "koltuk",
+    "en": "seat"
+  },
+  {
+    "id": 950,
+    "tr": "devam",
+    "en": "continue"
+  },
+  {
+    "id": 951,
+    "tr": "bloğu",
+    "en": "block"
+  },
+  {
+    "id": 952,
+    "tr": "grafiği",
+    "en": "chart"
+  },
+  {
+    "id": 953,
+    "tr": "şapka",
+    "en": "hat"
+  },
+  {
+    "id": 954,
+    "tr": "satmak",
+    "en": "sell"
+  },
+  {
+    "id": 955,
+    "tr": "başarı",
+    "en": "success"
+  },
+  {
+    "id": 956,
+    "tr": "şirket",
+    "en": "company"
+  },
+  {
+    "id": 957,
+    "tr": "çıkarmak",
+    "en": "subtract"
+  },
+  {
+    "id": 958,
+    "tr": "olay",
+    "en": "event"
+  },
+  {
+    "id": 959,
+    "tr": "özellikle",
+    "en": "particular"
+  },
+  {
+    "id": 960,
+    "tr": "anlaşma",
+    "en": "deal"
+  },
+  {
+    "id": 961,
+    "tr": "yüzmek",
+    "en": "swim"
+  },
+  {
+    "id": 962,
+    "tr": "vadeli",
+    "en": "term"
+  },
+  {
+    "id": 963,
+    "tr": "karşısında",
+    "en": "opposite"
+  },
+  {
+    "id": 964,
+    "tr": "karısı",
+    "en": "wife"
+  },
+  {
+    "id": 965,
+    "tr": "ayakkabı",
+    "en": "shoe"
+  },
+  {
+    "id": 966,
+    "tr": "omuz",
+    "en": "shoulder"
+  },
+  {
+    "id": 967,
+    "tr": "yaymak",
+    "en": "spread"
+  },
+  {
+    "id": 968,
+    "tr": "düzenlemek",
+    "en": "arrange"
+  },
+  {
+    "id": 969,
+    "tr": "kamp",
+    "en": "camp"
+  },
+  {
+    "id": 970,
+    "tr": "icat",
+    "en": "invent"
+  },
+  {
+    "id": 971,
+    "tr": "pamuk",
+    "en": "cotton"
+  },
+  {
+    "id": 972,
+    "tr": "doğmuş",
+    "en": "born"
+  },
+  {
+    "id": 973,
+    "tr": "belirlemek",
+    "en": "determine"
+  },
+  {
+    "id": 974,
+    "tr": "kuart",
+    "en": "quart"
+  },
+  {
+    "id": 975,
+    "tr": "dokuz",
+    "en": "nine"
+  },
+  {
+    "id": 976,
+    "tr": "kamyon",
+    "en": "truck"
+  },
+  {
+    "id": 977,
+    "tr": "gürültü",
+    "en": "noise"
+  },
+  {
+    "id": 978,
+    "tr": "seviyesi",
+    "en": "level"
+  },
+  {
+    "id": 979,
+    "tr": "şans",
+    "en": "chance"
+  },
+  {
+    "id": 980,
+    "tr": "toplamak",
+    "en": "gather"
+  },
+  {
+    "id": 981,
+    "tr": "dükkan",
+    "en": "shop"
+  },
+  {
+    "id": 982,
+    "tr": "streç",
+    "en": "stretch"
+  },
+  {
+    "id": 983,
+    "tr": "atmak",
+    "en": "throw"
+  },
+  {
+    "id": 984,
+    "tr": "parlaklık",
+    "en": "shine"
+  },
+  {
+    "id": 985,
+    "tr": "mülkiyet",
+    "en": "property"
+  },
+  {
+    "id": 986,
+    "tr": "sütun",
+    "en": "column"
+  },
+  {
+    "id": 987,
+    "tr": "molekülü",
+    "en": "molecule"
+  },
+  {
+    "id": 988,
+    "tr": "seçin",
+    "en": "select"
+  },
+  {
+    "id": 989,
+    "tr": "yanlış",
+    "en": "wrong"
+  },
+  {
+    "id": 990,
+    "tr": "gri",
+    "en": "gray"
+  },
+  {
+    "id": 991,
+    "tr": "tekrar",
+    "en": "repeat"
+  },
+  {
+    "id": 992,
+    "tr": "gerektirir",
+    "en": "require"
+  },
+  {
+    "id": 993,
+    "tr": "geniş",
+    "en": "broad"
+  },
+  {
+    "id": 994,
+    "tr": "hazırlamak",
+    "en": "prepare"
+  },
+  {
+    "id": 995,
+    "tr": "tuz",
+    "en": "salt"
+  },
+  {
+    "id": 996,
+    "tr": "burun",
+    "en": "nose"
+  },
+  {
+    "id": 997,
+    "tr": "çoğul",
+    "en": "plural"
+  },
+  {
+    "id": 998,
+    "tr": "öfke",
+    "en": "anger"
+  },
+  {
+    "id": 999,
+    "tr": "iddia",
+    "en": "claim"
+  },
+  {
+    "id": 1000,
+    "tr": "kıta",
+    "en": "continent"
+  }
+]

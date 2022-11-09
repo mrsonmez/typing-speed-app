@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-color: #bbdefe;
+}
+.list {
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: auto;
+  max-width: 800px;
+  font-size: 20px;
+  padding: 10px;
+  background-color: aliceblue;
+  color: black;
+  word-wrap: break-word;
+}
+.list > div {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 0 auto;
+  font-size: 1.3rem;
+}
+.listItem {
+  margin: 10px;
+  word-break: break-all;
+  font-weight: 400;
+}
+.current {
+  background-color: #dddddd;
+  font-weight: 700;
+}
+.correct {
+  color: white;
+  border: 1px solid green;
+  background-color: green;
+}
+.wrong {
+  color: black;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.next {
+  background-color: grey;
+  border: 1px solid grey;
+  color: black;
+}
+
+.inputHandler {
+  display: flex;
+  width: 700px;
+  border-radius: 7px;
+  outline: none;
+  height: 55px;
+  font-size: large;
+  padding: 15px;
+}
+.result {
+  margin: 50px auto;
+  width: 300px;
+  height: auto;
+}
+
+.dks {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border: 0.3px solid;
+}
+.words {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  border: 0.3px solid;
+}
+.words > p {
+  margin-left: auto;
+  font-weight: 800;
+}
+.words:nth-child(2) {
+  background-color: #fff;
+}
+
+.footer {
+  display: flex;
+  position: absolute;
+  width: 99%;
+  margin: 10px;
+  padding: 0;
+  background-color: white;
+}
+.footer > a {
+  text-decoration: none;
+  color: black;
+  margin: 0 auto;
+}
+.footer > h1:hover {
+  content: "Visit me at github!";
+}
