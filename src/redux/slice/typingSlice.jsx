@@ -13,7 +13,7 @@ const typingSlice = createSlice({
     correctWords: 0,
     wrongWords: 0,
     keyPressed: 0,
-    timer: 10,
+    timer: 60,
   },
   reducers: {
     languageSetter: (state, action) => {
